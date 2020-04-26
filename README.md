@@ -18,4 +18,34 @@
 
 ---
 ### 홍보 영상
-<a href="https://github.com/Kyeul/WORDATA/blob/master/readme/video.mp4">영상 다운링크</a>
+<a href="https://github.com/Kyeul/WORDATA/raw/master/readme/video.mp4">영상 다운링크</a>
+
+---
+### Used Package
+
+```
+# read data
+import docx
+from PyPDF2 import PdfFileReader
+
+# Analysis
+from nltk import *
+import nltk
+nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
+from nltk.corpus import stopwords
+from nltk.tokenize import WordPunctTokenizer
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib
+import zipfile
+import re
+import sys
+import os
+
+# Crawling
+import requests
+from bs4 import BeautifulSoup
+```
