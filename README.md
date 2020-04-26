@@ -52,4 +52,4 @@ from bs4 import BeautifulSoup
 
 ---
 ### 사용 예시 영상
-<a href="https://github.com/Kyeul/WORDATA/raw/master/readme/%EC%9B%8C%EB%8B%A4%ED%83%80_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%EC%8B%9C%EC%97%B0.mp4">프로토타입 영상 다운</
+<a href="https://github.com/Kyeul/WORDATA/raw/master/readme/%EC%9B%8C%EB%8B%A4%ED%83%80_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%EC%8B%9C%EC%97%B0.mp4">프로토타입 영상 다운</a>
