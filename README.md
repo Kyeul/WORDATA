@@ -18,4 +18,4 @@
 
 ---
 ### 홍보 영상
-<video src="./readme/video.mp4" controls autoplay></video>
+<link href="https://github.com/Kyeul/WORDATA/blob/master/readme/video.mp4">영상 다운링크</link>
