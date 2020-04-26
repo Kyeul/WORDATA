@@ -18,4 +18,4 @@
 
 ---
 ### 홍보 영상
-<video src="./readme/video.mp4"></video>
+<video src="./readme/video.mp4" controls autoplay></video>
